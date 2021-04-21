@@ -1,1 +1,1 @@
-ping ya.ru -c 1000 &
+ping ya.ru -c 1000
