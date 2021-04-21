@@ -1,0 +1,1 @@
+ping ya.ru -c 100
